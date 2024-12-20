@@ -1,0 +1,54 @@
+Travaux Dirigés N° 3
+Exercices simples (Boucles de base)
+1.	Afficher des nombres
+o	Écrire une boucle for pour afficher tous les nombres de 1 à 50 sur la console.
+2.	Somme des entiers
+o	Écrire un programme qui utilise une boucle pour calculer la somme des nombres entiers de 1 à 100.
+o	Exemple attendu : La somme de 1 à 100 est 5050.
+3.	Nombres pairs
+o	Écrire une boucle while pour afficher tous les nombres pairs entre 0 et 100.
+4.	Compte à rebours
+o	Écrire une boucle do-while pour afficher un compte à rebours de 10 à 0.
+
+ 
+Exercices intermédiaires
+5.	Nombre de voyelles
+o	Écrire un programme qui compte le nombre de voyelles dans une chaîne de caractères donnée par l’utilisateur.
+o	Exemple d'entrée : "bonjour"
+o	Sortie attendue : 3 voyelles (o, o, u).
+6.	Table de multiplication
+o	Utiliser une boucle for pour afficher la table de multiplication d’un nombre entré par l’utilisateur.
+o	Exemple d'entrée : 5
+o	Sortie attendue :
+python
+Copier le code
+5 x 1 = 5
+5 x 2 = 10
+...
+5 x 10 = 50
+7.	Mot de passe sécurisé
+o	Écrire une boucle while qui demande un mot de passe jusqu’à ce que l’utilisateur entre "1234".
+o	Exemple d'entrée :
+	Tentative 1 : "abcd"
+	Tentative 2 : "1234"
+o	Sortie attendue : "Mot de passe correct !"
+
+ 
+Exercices avancés
+8.	Pyramide d’étoiles
+o	Utiliser des boucles imbriquées pour afficher une pyramide d’étoiles selon une hauteur donnée par l’utilisateur.
+o	Exemple pour une hauteur de 4 :
+markdown
+Copier le code
+   *
+  ***
+ *****
+*******
+9.	Nombre inversé
+o	Écrire un programme qui lit un entier positif et affiche ce nombre inversé.
+o	Exemple d'entrée : 12345
+o	Sortie attendue : 54321.
+10.	Somme des multiples
+o	Écrire un programme qui calcule la somme des multiples de 3 et 5 en dessous de 1000.
+o	Sortie attendue : La somme est 233168.
+
